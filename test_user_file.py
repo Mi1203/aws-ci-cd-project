@@ -1,4 +1,4 @@
-from func_in_file11 import *
+from func_in_file1 import *
 
 def test_add():
     assert add(2,3) == 5
