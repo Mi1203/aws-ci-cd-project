@@ -1,3 +1,5 @@
+from func_in_file import *
+
 def test_add():
     assert add(2,3) == 5
 
