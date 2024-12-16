@@ -1,7 +1,7 @@
 from func_in_file import *
 
 def test_add():
-    assert add(3,9) == 12
+    assert add(5,9) == 14
 
 def test_subtract():
     assert subtract(2, 3) == -1
